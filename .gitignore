@@ -1,0 +1,15 @@
+# Archivos generados por Cargo
+/target/
+
+# Archivos de depuración de Visual Studio Code
+.vscode/
+
+# Directorio de caché de dependencias de Cargo
+.cargo/
+
+# Archivos de documentación generados por rustdoc
+/target/doc/
+
+# Archivos de respaldo de editor
+*~
+
