@@ -6,3 +6,7 @@
 
 > cap 1 
 - 13 / 4
+
+> cap 3. Conceptos Comunes de Programación
+
+- 13 / 4
