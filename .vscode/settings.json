@@ -1,3 +1,7 @@
 {
-  "conventionalCommits.scopes": ["docs", "backend"]
+  "conventionalCommits.scopes": [
+    "docs",
+    "backend",
+    "fundamentals"
+  ]
 }

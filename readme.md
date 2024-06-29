@@ -10,3 +10,5 @@
 > cap 3. Conceptos Comunes de Programación
 
 - 13 / 4
+
+> cap 3. Tipos de datos - terminado
