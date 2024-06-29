@@ -13,3 +13,6 @@
 
 - 29 / 5
 > cap 3. Tipos de datos - terminado
+> cap 3.5 terminado
+
+Entendiendo el Ownership <---
