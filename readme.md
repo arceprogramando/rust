@@ -21,4 +21,4 @@ Volviendo a Releer 1 / 2 de enero de 2025
 > cap 2
 > cap 3
 
-Entendiendo el Ownership <---
+3 de enero - Entendiendo el Ownership <--- Necesito volver a grabarlo
