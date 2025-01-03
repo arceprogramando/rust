@@ -15,4 +15,10 @@
 > cap 3. Tipos de datos - terminado
 > cap 3.5 terminado
 
+Volviendo a Releer 1 / 2 de enero de 2025
+
+> cap 1 
+> cap 2
+> cap 3
+
 Entendiendo el Ownership <---
