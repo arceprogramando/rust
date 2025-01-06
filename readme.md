@@ -22,3 +22,5 @@ Volviendo a Releer 1 / 2 de enero de 2025
 > cap 3
 
 3 de enero - Entendiendo el Ownership <--- Necesito volver a grabarlo
+
+6 de enero - Usando Structs para Estructurar Datos Relacionados 
