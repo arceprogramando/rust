@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "propagacion"
+name = "structs_genericos"
 version = "0.1.0"
