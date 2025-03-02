@@ -1,4 +1,14 @@
 fn main() {
+
+    // Memoia RAM
+    // STACK | HEAP
+    // Stack -> i32, f64, bool, char, u8, u16, u32, u64, u128, isize, usize, references, etc.
+
+    // HEAP -> Vec<T>, String, Box<T>, Rc<T>, RefCell<T>, etc.
+
+
+    // Se crea en el heap el vector pero ademas se guarda la dirección en memoria del heap en el stack
+    
     let mut v: Vec<u8> = Vec::new();
     v.push(5);
     v.push(6);
