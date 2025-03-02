@@ -1,4 +1,18 @@
 fn main() {
+
+    // Stack: &str, &[char; n], &[u8; n], &[T; n], &T (referencias)
+    
+    // Heap: String, Vec<u8>, Vec<T>, Box<T>, Rc<T>, Arc<T>, Mutex<T>, RefCell<T>, Cell<T>, Cow<T>, Pin<T>, Box<dyn Trait>, &dyn Trait, &mut dyn Trait, &T, &mut T (punteros)
+
+    // Por defecto el mas recomendado es .to_string()
+    // Es mas especifico por que le dices que quieres un String tambien el type annotation es mas especifico
+    let mut mi_nombre:String= "Felipe".to_string();
+    // El to_string referencia a el str asi que tiene todas las propiedades de un str
+    println!("Mi nombre es {}",mi_nombre);
+
+    mi_nombre.push_str(" Arce");
+    println!("Mi nombre es {}",mi_nombre);
+
     let mut s = String::from("foo");
     s.push_str("bar");
     println!("{s}");
