@@ -10,8 +10,8 @@ fn main() {
         process::exit(1)
     });
 
-    println!("Title: {}",config.query);
-    println!("In the file: {}",config.file_path);
+    println!("Palabra buscada en linea del archivo: {}",config.query);
+    println!("En el archivo: {}",config.file_path);
 
     if let Err(e) = minigrep::run(config) {
         println!("Application error: {e}");
